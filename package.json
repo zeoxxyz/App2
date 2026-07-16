@@ -1,0 +1,11 @@
+{
+  "name": "zeox-site",
+  "version": "1.0.0",
+  "description": "ZEOX static site — publishing (max 3 files/account). Obfuscator: coming soon.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "npx --yes serve public"
+  },
+  "license": "MIT"
+}
